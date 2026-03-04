@@ -1,26 +1,152 @@
-Hi, I'm Manav 👋
+<h1 align="center">Hi 👋, I'm Manav</h1>
+<h3 align="center">AI • Machine Learning • Neural Systems</h3>
 
-
-👨‍💻 Computer Science Engineering student at Parul College<br/>
-🚀 Passionate about coding and eager to learn new technologies<br/>
-💡 Love creating new things and bringing my ideas to life<br/>
-🤝 Always ready to help others—never hesitate to reach out! [INSTAGRAM]<https://www.instagram.com/_mnv0_/><br/>
-
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Manav-mnv&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Manav-mnv&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manav-mnv&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Manav-mnv&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Explorer;Building+Neural+Systems;Reading+Research+Papers;Future+AI+Engineer" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Manav-mnv&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+💻 **Computer Science Major (AI/ML)** — Parul University  
+⚡ Exploring **Neural Networks, LLMs and AI Systems**  
+🔬 Reading **research papers & building experimental projects**  
+📸 Photographer | 🧑‍💻 Developer | 🧠 Curious mind  
+
+I enjoy building intelligent systems and experimenting with AI ideas.
+
+Currently focused on learning how **modern AI systems are built from the ground up.**
+
+---
+
+## 🚀 Current Focus
+
+• Building **AI tools and neural system experiments**  
+• Contributing to **open-source projects**  
+• Learning **Deep Learning and ML system design**  
+• Understanding **AI infrastructure and large scale models**
+
+---
+
+# 💻 Tech Stack
+
+### 🧑‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+### 🧠 AI / Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+
+---
+
+### 📊 Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
+
+---
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GoogleCloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
+
+### 🌐 Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+### 🧪 Currently Exploring
+![DeepLearning](https://img.shields.io/badge/DeepLearning-8A2BE2?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-00CED1?style=for-the-badge)
+![AI Systems](https://img.shields.io/badge/AI%20Infrastructure-FF1493?style=for-the-badge)
+
+---
+
+# 📚 AI Research Interests
+
+• Neural Networks  
+• Large Language Models  
+• AI Infrastructure  
+• AI Safety  
+• Multimodal Models  
+• Generative AI  
+
+---
+
+# 🚀 Featured Projects
+
+### 🔹 LUME
+Experimental **AI interface exploring neural interaction patterns**
+
+### 🔹 PatternX
+Algorithm pattern recognition experiments
+
+### 🔹 AI Fragments
+Collection of small **AI model experiments**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manav-Mnv&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manav-Mnv&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manav-Mnv&theme=tokyo-night)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=manav-Mnv&theme=algolia)
+
+---
+
+# 💡 Dev Philosophy
+
+> “The future belongs to those who understand intelligent machines.”
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/manav-sinh-906a891b6">
+<img src="https://img.shields.io/badge/LinkedIn-Manav%20Sinh-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/mnv0_">
+<img src="https://img.shields.io/badge/Instagram-Photography-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/manav-Mnv">
+<img src="https://img.shields.io/badge/GitHub-Manav-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+![](https://komarev.com/ghpvc/?username=manav-Mnv&color=blue)
