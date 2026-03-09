@@ -119,7 +119,7 @@ Collection of small **AI model experiments**
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=manav-Mnv&theme=algolia)
+![](https://github-trophies.vercel.app/?username=manav-Mnv&theme=algolia)
 
 ---
 
