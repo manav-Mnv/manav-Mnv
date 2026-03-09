@@ -137,7 +137,7 @@ Collection of small **AI model experiments**
 <img src="https://img.shields.io/badge/LinkedIn-Manav%20Sinh-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/mnv0_">
+<a href="https://www.instagram.com/_mnvpr/">
 <img src="https://img.shields.io/badge/Instagram-Photography-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
