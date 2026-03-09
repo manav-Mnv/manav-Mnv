@@ -103,9 +103,9 @@ Collection of small **AI model experiments**
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manav-Mnv&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=manav-Mnv&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manav-Mnv&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=manav-Mnv&layout=compact&theme=tokyonight"/>
 
 </p>
 
