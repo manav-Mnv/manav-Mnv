@@ -28,6 +28,7 @@
 
 | Project | What it does | Built with |
 | --- | --- | --- |
+| **[Hound](https://github.com/manav-Mnv/hound-aml)** | Anti-money-laundering investigation agents that follow the money through a graph database, remember every case, and write reports where every sentence cites a Cypher query. Graph Hacks 2026. [Live demo](https://hound-99l2.onrender.com) | Python · FalkorDB · AI agents · MCP |
 | **[EchoNav](https://github.com/manav-Mnv/EchoNav)** | Offline navigation companion for blind and low-vision users. Detects nearby objects in real time and describes them through voice and haptics, with nothing leaving the phone. | Kotlin · TensorFlow Lite · EfficientDet-Lite2 |
 | **[Code Review OpenEnv](https://github.com/manav-Mnv/code-review-env-)** | Reinforcement-learning environment where AI agents learn to find bugs, rate their severity and suggest fixes, graded like a senior reviewer would. | Python · FastAPI · Docker |
 | **[IntelliCredit AI](https://github.com/manav-Mnv/intelli-credit-ai-1.0)** | Reads multi-page financial documents (PDF, XLSX, DOCX) and writes a credit appraisal memo through a 4-layer risk engine. | Python · TypeScript · Docker |
@@ -53,6 +54,14 @@
 
 - **apple/swift-argument-parser** · [#884 Ordered multi-option collection support](https://github.com/apple/swift-argument-parser/pull/884) *(open)*
 - **blockseblock-labs/India-Accelerator-OpenXAI-2025** · [#422 AI tutor](https://github.com/blockseblock-labs/India-Accelerator-OpenXAI-2025/pull/422) *(open)*
+
+## 🏆 Highlights
+
+- 🍎 Built **two apps for the WWDC Swift Student Challenge**: [LUME](https://github.com/manav-Mnv/L-U-M-E) and [Fragments](https://github.com/manav-Mnv/Fragments)
+- 🛠️ **Hackathons**: The IndeHub Hackathon 2026 ([The Room](https://github.com/manav-Mnv/the-room)) · Graph Hacks 2026 by WeMakeDevs × FalkorDB ([Hound](https://github.com/manav-Mnv/hound-aml)) · OpenEnv Hackathon ([Code Review OpenEnv](https://github.com/manav-Mnv/code-review-env-)) · Parul University Environment Hackathon 2026 ([EcoSense AI](https://github.com/manav-Mnv/Envi)) · OpenXAI 2025 India Accelerator
+- 🌍 Open-source pull request to **apple/swift-argument-parser**
+- 👥 Admin of the **Swift Coding Club, Parul University**; built the [AATCe Apple Lab attendance kiosk](https://github.com/manav-Mnv/aatce-apple-lab) and the club's [Swift Student Challenge registration system](https://github.com/Swift-Coding-Club-Parul-University/ssc)
+- 🧑‍🏫 Wrote a [6-week Swift and SwiftUI teaching course](https://github.com/manav-Mnv/routiner) around a real app
 
 ---
 
@@ -102,6 +111,15 @@
 - Building **Puma** and the next version of the AATCe Apple Lab system
 - Running the Swift Coding Club's Swift Student Challenge 2027 registrations
 - Research interests: LLMs, multimodal models, on-device inference, AI safety
+
+---
+
+## ⚡ Recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<sub>Updated automatically every 6 hours.</sub>
 
 ---
 
