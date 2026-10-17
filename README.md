@@ -117,6 +117,12 @@
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [mnvv.netlify.app 1.0](https://github.com/manav-Mnv/M-N-V---webpage/releases/tag/v1.0.0) in [manav-Mnv/M-N-V---webpage](https://github.com/manav-Mnv/M-N-V---webpage)
+2. 🚀 Published release [Swifters 1.0](https://github.com/manav-Mnv/swifters/releases/tag/v1.0.0) in [manav-Mnv/swifters](https://github.com/manav-Mnv/swifters)
+3. 🚀 Published release [Code Review OpenEnv 1.0: OpenEnv Hackathon submission](https://github.com/manav-Mnv/code-review-env-/releases/tag/v1.0.0) in [manav-Mnv/code-review-env-](https://github.com/manav-Mnv/code-review-env-)
+4. 🚀 Published release [IntelliCredit AI 1.0](https://github.com/manav-Mnv/intelli-credit-ai-1.0/releases/tag/v1.0.0) in [manav-Mnv/intelli-credit-ai-1.0](https://github.com/manav-Mnv/intelli-credit-ai-1.0)
+5. 🚀 Published release [The Room 1.0: IndeHub Hackathon 2026 submission](https://github.com/manav-Mnv/the-room/releases/tag/v1.0.0) in [manav-Mnv/the-room](https://github.com/manav-Mnv/the-room)
+6. 🚀 Published release [Fragments 1.0: Swift Student Challenge submission](https://github.com/manav-Mnv/Fragments/releases/tag/v1.0.0) in [manav-Mnv/Fragments](https://github.com/manav-Mnv/Fragments)
 <!--END_SECTION:activity-->
 
 <sub>Updated automatically every 6 hours.</sub>
