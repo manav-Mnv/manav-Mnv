@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://mnvv.netlify.app/"><img src="https://img.shields.io/badge/Website-mnvv.netlify.app-0A84FF?style=flat-square&logo=netlify&logoColor=white" alt="Website" /></a>
+  <a href="https://manav-mnv.github.io/mnv/"><img src="https://img.shields.io/badge/Website-manav--mnv.github.io%2Fmnv-0A84FF?style=flat-square&logo=githubpages&logoColor=white" alt="Website" /></a>
+  <a href="https://mnvv.netlify.app/"><img src="https://img.shields.io/badge/Books%20%26%20writing-mnvv.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Books and writing" /></a>
   <a href="https://www.linkedin.com/in/manav-sinh-906a891b6"><img src="https://img.shields.io/badge/LinkedIn-Manav%20Sinh-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/_mnvpr/"><img src="https://img.shields.io/badge/Instagram-Photography-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
@@ -15,6 +16,7 @@
 
 ## About me
 
+- 🌐 My website: **[manav-mnv.github.io/mnv](https://manav-mnv.github.io/mnv/)**
 - 🎓 B.Tech CSE (AI & ML) at **Parul University**, Vadodara
 - 🍎 Admin of the **[Swift Coding Club](https://github.com/Swift-Coding-Club-Parul-University)**, building the tools that run the university's **AATCe Apple Lab**: the attendance kiosk, the Swift Student Challenge registration system, and more
 - 🧠 Putting **machine learning on the device**: object detection for blind users, emotion detection in a chat companion, and AI agents that review code
