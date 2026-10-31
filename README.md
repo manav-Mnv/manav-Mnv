@@ -119,12 +119,12 @@
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/manav-Mnv/puma/pull/4) in [manav-Mnv/puma](https://github.com/manav-Mnv/puma)
-2. 💪 Opened PR [#4](https://github.com/manav-Mnv/puma/pull/4) in [manav-Mnv/puma](https://github.com/manav-Mnv/puma)
-3. 🎉 Merged PR [#2](https://github.com/manav-Mnv/puma/pull/2) in [manav-Mnv/puma](https://github.com/manav-Mnv/puma)
-4. 🎉 Merged PR [#3](https://github.com/manav-Mnv/puma/pull/3) in [manav-Mnv/puma](https://github.com/manav-Mnv/puma)
-5. 🚀 Published release [mnvv.netlify.app 1.0](https://github.com/manav-Mnv/M-N-V---webpage/releases/tag/v1.0.0) in [manav-Mnv/M-N-V---webpage](https://github.com/manav-Mnv/M-N-V---webpage)
-6. 🚀 Published release [Swifters 1.0](https://github.com/manav-Mnv/swifters/releases/tag/v1.0.0) in [manav-Mnv/swifters](https://github.com/manav-Mnv/swifters)
+1. 💪 Opened PR [#10](https://github.com/manav-Mnv/puma/pull/10) in [manav-Mnv/puma](https://github.com/manav-Mnv/puma)
+2. 🎉 Merged PR [#9](https://github.com/manav-Mnv/puma/pull/9) in [manav-Mnv/puma](https://github.com/manav-Mnv/puma)
+3. 💪 Opened PR [#9](https://github.com/manav-Mnv/puma/pull/9) in [manav-Mnv/puma](https://github.com/manav-Mnv/puma)
+4. 🎉 Merged PR [#8](https://github.com/manav-Mnv/puma/pull/8) in [manav-Mnv/puma](https://github.com/manav-Mnv/puma)
+5. 💪 Opened PR [#8](https://github.com/manav-Mnv/puma/pull/8) in [manav-Mnv/puma](https://github.com/manav-Mnv/puma)
+6. ❌ Closed PR [#6](https://github.com/manav-Mnv/puma/pull/6) in [manav-Mnv/puma](https://github.com/manav-Mnv/puma)
 <!--END_SECTION:activity-->
 
 <sub>Updated automatically every 6 hours.</sub>
