@@ -119,12 +119,12 @@
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/manav-Mnv/puma/pull/23) in [manav-Mnv/puma](https://github.com/manav-Mnv/puma)
-2. 🎉 Merged PR [#22](https://github.com/manav-Mnv/puma/pull/22) in [manav-Mnv/puma](https://github.com/manav-Mnv/puma)
-3. 💪 Opened PR [#22](https://github.com/manav-Mnv/puma/pull/22) in [manav-Mnv/puma](https://github.com/manav-Mnv/puma)
-4. 💪 Opened PR [#21](https://github.com/manav-Mnv/puma/pull/21) in [manav-Mnv/puma](https://github.com/manav-Mnv/puma)
-5. 🎉 Merged PR [#20](https://github.com/manav-Mnv/puma/pull/20) in [manav-Mnv/puma](https://github.com/manav-Mnv/puma)
-6. 💪 Opened PR [#20](https://github.com/manav-Mnv/puma/pull/20) in [manav-Mnv/puma](https://github.com/manav-Mnv/puma)
+1. 💪 Opened PR [#1](https://github.com/manav-Mnv/swifters/pull/1) in [manav-Mnv/swifters](https://github.com/manav-Mnv/swifters)
+2. 💪 Opened PR [#23](https://github.com/manav-Mnv/puma/pull/23) in [manav-Mnv/puma](https://github.com/manav-Mnv/puma)
+3. 🎉 Merged PR [#22](https://github.com/manav-Mnv/puma/pull/22) in [manav-Mnv/puma](https://github.com/manav-Mnv/puma)
+4. 💪 Opened PR [#22](https://github.com/manav-Mnv/puma/pull/22) in [manav-Mnv/puma](https://github.com/manav-Mnv/puma)
+5. 💪 Opened PR [#21](https://github.com/manav-Mnv/puma/pull/21) in [manav-Mnv/puma](https://github.com/manav-Mnv/puma)
+6. 🎉 Merged PR [#20](https://github.com/manav-Mnv/puma/pull/20) in [manav-Mnv/puma](https://github.com/manav-Mnv/puma)
 <!--END_SECTION:activity-->
 
 <sub>Updated automatically every 6 hours.</sub>
